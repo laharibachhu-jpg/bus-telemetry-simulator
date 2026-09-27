@@ -1,0 +1,5 @@
+{
+  "name": "Bus Telemetry Simulator",
+  "description": "A realistic bus route telemetry data simulator with passenger tracking, live route navigation, and smart card verification audits.",
+  "requestFramePermissions": []
+}
